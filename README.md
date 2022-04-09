@@ -20,7 +20,7 @@ I’m currently learning PyTorch, TensorFlow<br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?Jae-soon=anuraghazra&show_icons=true&theme=radical)
+![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
 
 <!--
 **Jae-soon/Jae-soon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
