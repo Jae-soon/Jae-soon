@@ -1,6 +1,6 @@
 
 <h3 align="center"><b>Hi! I'm Jaesoon👋</b><br>
-I’m currently learning PyTorch, TensorFlow<br>
+I’m currently learning Spring boot, MySQL<br>
 </h3>
 
 <h3 align="center"><b>🛠Programming Language🛠</b></h3>
