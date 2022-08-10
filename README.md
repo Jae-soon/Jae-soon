@@ -22,6 +22,9 @@ I’m currently learning Spring boot, MySQL<br>
 
 ![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
 
+<p align="center">
+  <a href="https://site1.ll1.jaesoon.site/">Welcome to my Personal Blog!</a>
+</p>
 <!--
 **Jae-soon/Jae-soon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
