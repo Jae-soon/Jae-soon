@@ -43,16 +43,16 @@ I’m currently learning Spring boot, MySQL<br>
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
     <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-  </div>
-  
-</p>
+  </div>  
+</p><hr>
+
 
 <div align="center">
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-soon&layout=compact)](https://github.com/jae-soon/github-readme-stats) ![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
 
-<hr>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjae-soon%2F&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/jae-soon?style=social)
