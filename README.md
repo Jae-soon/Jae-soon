@@ -12,7 +12,7 @@ I’m currently learning Spring boot, MySQL<br>
 <h3 align="center"><b>🛠 Stack 🛠</b></h3>
 <p align="center">
   <div align="center">
-    <span align="center">FRONT END</span>
+    <h2 align="center">FRONT END</h2><br>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   </div>
