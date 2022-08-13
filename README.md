@@ -47,8 +47,11 @@ I’m currently learning Spring boot, MySQL<br>
   
 </p>
 
-![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-soon&layout=compact)](https://github.com/jae-soon/github-readme-stats)
+<div align="center">
+  ![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-soon&layout=compact)](https://github.com/jae-soon/github-readme-stats)
+</div>
+
 <h3 align="center">
   <a href="https://site1.ll1.jaesoon.site/">Welcome to my Personal Blog!</a>
 </h3>
