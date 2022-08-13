@@ -59,11 +59,11 @@ I’m currently learning Spring boot, MySQL<br>
 
 <a href="https://jae-soon.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=Tistory&link=https://jae-soon.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Tistory&link=https://jae-soon.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="https://www.instagram.com/jaesooone/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/jaesooone/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jaesooone/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:a2346532@gmail.com">
     <img 
