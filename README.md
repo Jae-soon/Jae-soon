@@ -48,15 +48,32 @@ I’m currently learning Spring boot, MySQL<br>
 </p>
 
 <div align="center">
-  ![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-soon&layout=compact)](https://github.com/jae-soon/github-readme-stats)
-</div>
 
-<h3 align="center">
-  <a href="https://site1.ll1.jaesoon.site/">Welcome to my Personal Blog!</a>
-</h3>
+![JaeSoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-soon&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-soon&layout=compact)](https://github.com/jae-soon/github-readme-stats)
+
+<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjae-soon%2F&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/jae-soon?style=social)
+
+<a href="https://jae-soon.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=Tistory&link=https://jae-soon.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="https://www.instagram.com/jaesooone/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/jaesooone/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="mailto:a2346532@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a2346532@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</div>
+
+
 <!--
 **Jae-soon/Jae-soon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
